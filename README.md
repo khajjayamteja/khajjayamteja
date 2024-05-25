@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khajjayamteja" alt="khajjayamteja" /></a> </p>
 
-- 🔭 I’m currently working on [Migrating .Net Framework to .Net Core]()
+- 🔭 I’m currently working on [Migrating .Net Framework to .Net Core](https://learn.microsoft.com/en-us/dotnet/core/porting/)
 
 - 🌱 I’m currently learning **GoLang,.NET MAUI**
 
