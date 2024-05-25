@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khajjayamteja" alt="khajjayamteja" /></a> </p>
 
-- 🔭 I’m currently working on [Docker with Dotnet and Angular](https://github.com/khajjayamteja/Docker_with_Dotnet_Angular)
+- 🔭 I’m currently working on [Migrating .Net Framework to .Net Core]()
 
 - 🌱 I’m currently learning **GoLang,.NET MAUI**
 
