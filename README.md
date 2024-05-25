@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Migrating .Net Framework to .Net Core](https://learn.microsoft.com/en-us/dotnet/core/porting/)
 
-- 🌱 I’m currently learning **GoLang,.NET MAUI**
+- 🌱 I’m currently learning **GoLang**
 
 - 👨‍💻 My Portfolio is available at [Portfolio](https://khajjayamteja.github.io/portfolio/)
 
