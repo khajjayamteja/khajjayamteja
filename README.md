@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GoLang, Next.js**
 
-- 👨‍💻 My Portfolio is available at [Portfolio](https://khajjayamteja.github.io/portfolio/)
+- 👨‍💻 My Portfolio is available at [Portfolio](https://khajjayamteja.github.io/myportfolio/)
 
 - 💬 Ask me about **AngularJS, Dotnet, Devops**
 
